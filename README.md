@@ -4,8 +4,6 @@ Ciência de Dados · Etapa CRISP-DM: Preparação dos Dados
 
 Cinco notebooks, um por exercício da lista. Todos já estão **executados**: dá para abrir e ver as tabelas, os gráficos e as respostas sem rodar nada.
 
-> Antes de entregar, preencha o seu nome no campo **Aluno(a)** no topo de cada notebook.
-
 ## Estrutura
 
 | Pasta | Tema | Dataset | Destaques |
